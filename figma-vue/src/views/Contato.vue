@@ -1,11 +1,14 @@
 <template>
     <Contato/>
+    
 </template>
 <script>
-import Contato from'@/components/Contato'
+import Contato from'../components/Contato.vue'
+
 export default {
     components:{
         Contato
+        
     }
     
 }
