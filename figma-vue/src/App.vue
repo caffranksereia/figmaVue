@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">Empresa</router-link> 
+    <router-link to="/home">Empresa</router-link> 
     <router-link to="/camisaria">Camisaria</router-link> 
     <router-link to="/alfataria">Alfataria</router-link> 
     <router-link to="/depoimento">Depoimento</router-link> 
