@@ -2,7 +2,7 @@
     <Alfataria/>
 </template>
 <script>
-import Alfataria from'@/components/Alfataria'
+import Alfataria from'../components/Alfataria.vue'
 export default {
     components:{
         Alfataria
