@@ -2,7 +2,7 @@
     <Depoimento/>
 </template>
 <script>
-import Depoimento from'@/components/Depoimento'
+import Depoimento from'../components/Depoimento.vue'
 export default {
     components:{
         Depoimento
