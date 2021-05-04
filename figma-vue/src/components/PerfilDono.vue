@@ -20,6 +20,11 @@ export default {
     
 }
 </script>
-<style>
-
+<style scoped>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: yellowgreen;
+}
 </style>
