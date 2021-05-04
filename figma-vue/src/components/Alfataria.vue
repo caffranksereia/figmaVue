@@ -27,3 +27,11 @@ export default {
     name:'Alfataria'
 }
 </script>
+<style scoped>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blue;
+}
+</style>
