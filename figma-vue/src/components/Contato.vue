@@ -49,3 +49,10 @@ export default {
         'Contato'
 }
 </script>
+<style scoped>
+*{
+  margin: 0;
+  padding: 0;
+  background-color:tomato;
+}
+</style>
