@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <Dashboard/>
     <Empresa/>
     <Camisaria/>
     <Alfataria/>
@@ -16,9 +17,12 @@ import Depoimento from '../components/Depoimento'
 import Alfataria from '../components/Alfataria'
 import Contato from '../components/Contato'
 import Camisaria from '../components/Camisaria'
+import Dashboard from '../components/Dashboard.vue'
+
 export default {
   name: 'Home',
   components:{
+    Dashboard,
     Depoimento,
     Alfataria,
     Contato,
@@ -28,3 +32,10 @@ export default {
   
 }
 </script>
+<style scoped>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+</style>
